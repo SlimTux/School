@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="MyawesomeDOCS"
+    content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no, viewport-fit=cover">
+  <meta name="DESCRICION"
+    content="A demonstration of docsify-themable: a delightfully simple theme system for docsify.js">
+  <title>DOCS</title>
+
+  <!-- Themes (light + dark) -->
+  <link rel="stylesheet" media="(prefers-color-scheme: dark)"
+    href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+
+  <!-- Theme: Simple Dark -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
+
+  <!-- Custom Styles -->
+  <style>
+    :root {
+      --base-font-size: 16px;
+      --theme-color: tomato;
+      /* --theme-hue: 325; */
+    }
+  </style>
+</head>
+
+<body>
+  <div id="app"></div>
+
+  <script>
+    // Docsify Configuration
+    window.$docsify = {
+      name: "Documentacion",
+      repo: "https://github.com/jhildenbiddle/docsify-themeable",
+      coverpage: "coverpage.md",
+      homepage: "README.md",
+      homepage: 'https://raw.githubusercontent.com/jhildenbiddle/docsify-themeable/master/README.md',
+      loadSidebar: "sidebar.md",
+      auto2top: true,
+      maxLevel: 1,
+      subMaxLevel: 1,
+
+      // 5. docsify-themeable
+      themeable: {
+        // readyTransition : false,
+        // responsiveTables: false
+      }
+    };
+  </script>
+
+  <!-- Required -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
+
+  <!-- Recommended -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
+</body>
+
+</html>
