@@ -1,6 +1,5 @@
-- [Demo](/)
+- [CAS](/)
 - [Markdown](markdown)
 - **Links**
-- [Github](https://github.com/jhildenbiddle/docsify-themeable)
+- [Github](https://github.com/SlimTux/School)
 - [NPM](https://www.npmjs.com/package/docsify-themeable)
-
