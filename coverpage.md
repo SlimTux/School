@@ -1,6 +1,6 @@
-# docsify-themeable
+# Activities
 
-> A delightfully simple theme system for [docsify.js](https://docsify.js.org)
+> A delightfully simple blog [docsify.js](https://docsify.js.org)
 
 - Based on CSS custom properties
 - No packages to install or files to build
@@ -9,6 +9,5 @@
 - Legacy browser support (IE10+)
 
 [Get Started](#main)
-[GitHub](https://github.com/jhildenbiddle/docsify-themeable)
+[GitHub](https://github.com/SlimTux/School)
 [NPM](https://www.npmjs.com/package/docsify-themeable)
-
