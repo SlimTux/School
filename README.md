@@ -1,4 +1,6 @@
 # CAS
+> https://slimtux.github.io/School
+
 > You can ignore the `package.json` file in this sandbox. This file is required by codesandbox.io, not [docsify.js](https://docsify.js.org/).
 ## Change Themes
 Select a [docsify-themeable theme](https://jhildenbiddle.github.io/docsify-themeable/#/themes) and update the `<link>` in `index.html` accordingly.
@@ -12,3 +14,4 @@ Details are available in the [docsify](https://docsify.js.org/#/configuration) a
 ## Add Plugins
 Details are available in the [docsify plugins](https://docsify.js.org/#/plugins) documentation.
 (See comment #6 in `index.html`)
+
