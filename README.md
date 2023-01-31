@@ -1,5 +1,5 @@
 # CAS
-> https://slimtux.github.io/School
+> [PAGE] (https://slimtux.github.io/School)
 
 > You can ignore the `package.json` file in this sandbox. This file is required by codesandbox.io, not [docsify.js](https://docsify.js.org/).
 ## Change Themes
