@@ -58,4 +58,4 @@ Thank you! 🙏🏻
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/jhildenbiddle/docsify-themeable/blob/master/LICENSE) for details.
 
 !!!!! Copyright (c) John Hildenbiddle ([@jhildenbiddle](https://twitter.com/jhildenbiddle))  !!!!
-I have used his [jhildenbiddle](https://twitter.com/jhildenbiddle) template
+I have used his [jhildenbiddle](https://twitter.com/jhildenbiddle) template !!!!!
