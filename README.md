@@ -41,7 +41,7 @@ See the [documentation site](https://jhildenbiddle.github.io/docsify-themeable) 
 
 A [sponsorship](https://github.com/sponsors/SlimTux) is more than just a way to show appreciation [money](€) for the open-source authors and projects we rely on; it can be the spark that ignites the next big idea, the inspiration to create something new, and the motivation to share so that others may benefit.
 
-If you benefit from this project, please consider lending your support and encouraging future efforts by [becoming a sponsor](https://github.com/sponsors/jhildenbiddle).
+If you benefit from this project, please consider lending your support and encouraging future efforts by [becoming a sponsor](https://github.com/sponsors/SlimTux).
 
 Thank you! 🙏🏻
 
@@ -52,6 +52,7 @@ Thank you! 🙏🏻
 - Add a ⭐️ [star on GitHub](https://github.com/SlimTux/School) and 🐦 [tweet](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fjhildenbiddle%2Fdocsify-themeable&hashtags=css,developers,frontend,javascript) to promote the project
 - Become a 💖 [sponsor](https://github.com/sponsors/SlimTux) to support the project and future efforts
 - Give me monero XMR [Address] (to be implemented)
+- Also accept Bitcoin and Wownero [Address¹] (to be implemented) [Address²] (to be implemented)
 
 ## License
 
