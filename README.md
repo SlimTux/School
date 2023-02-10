@@ -2,7 +2,7 @@
 [Homepage](https://SlimTux.github.io/School) - Explore this brave new *(world)* blog.
 
 # docsify-themeable
-[![CAS](https://img.shields.io/npm/v/docsify-themeable.svg?style=flat-square)](https://github.com/SlimTux/School/CAS)
+[![CAS](https://img.shields.io/website?down_color=red&down_message=DOWN&style=for-the-badge&up_message=UP&url=https%3A%2F%2Fslimtux.github.io%2FSchool%2F%23%2Fe)](https://github.com/SlimTux/School/CAS)
 
 [![GitHub Workflow Status (master)](https://img.shields.io/badge/XD-Code%20certificated%20(by%20me)-informational)](https://getmonero.org)
 
