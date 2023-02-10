@@ -1,10 +1,10 @@
 # docsify-themeable
-
 [![NPM](https://img.shields.io/npm/v/docsify-themeable.svg?style=flat-square)](https://www.npmjs.com/package/docsify-themeable)
+
 [![GitHub Workflow Status (master)](https://img.shields.io/github/workflow/status/jhildenbiddle/docsify-themeable/Build/master?label=checks&style=flat-square)](https://github.com/jhildenbiddle/docsify-themeable/actions?query=branch%3Amaster+)
+
 [![Codacy grade](https://img.shields.io/codacy/grade/39220ba530f24dfc9443b47f2efea5c9?style=flat-square)](https://app.codacy.com/gh/jhildenbiddle/docsify-themeable/dashboard)
-[![License: MIT]
-[![jsDelivr](https://data.jsdelivr.com/v1/package/npm/docsify-themeable/badge)](https://www.jsdelivr.com/package/npm/docsify-themeable)
+
 [![Gimme money €o€](https://img.shields.io/static/v1?style=flat-square&label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/jhildenbiddle)
 
 Docsify-themeable is a delightfully simple theme system for [docsify.js](//docsify.js.org). Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE11+).
