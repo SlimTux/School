@@ -17,7 +17,7 @@ Docsify-themeable is a delightfully simple theme system for [docsify.js](//docsi
 
 <p float="left">
   <a href="https://jhildenbiddle.github.io/docsify-themeable">
-    <img alt="Light theme cover page" src="https://mataroa.blog/images/85c462b4.jpeg" width="100%">
+    <img alt="This theme is fire!" src="https://mataroa.blog/images/85c462b4.jpeg" width="100%">
   </a>
 </p>
 
@@ -25,8 +25,7 @@ Docsify-themeable is a delightfully simple theme system for [docsify.js](//docsi
 
 <p float="left">
   <a href="https://jhildenbiddle.github.io/docsify-themeable">
-    <img alt=" Dark theme" src="https://raw.githubusercontent.com/jhildenbiddle/docsify-themeable/master/docs/assets/img/theme-simple-dark-cover.png" width="49%">
-    <img alt="Simple dark theme content" src="https://raw.githubusercontent.com/jhildenbiddle/docsify-themeable/master/docs/assets/img/theme-simple-dark-content.png" width="49%">
+    <img alt="Simple dark theme content" src="https://raw.githubusercontent.com/jhildenbiddle/docsify-themeable/master/docs/assets/img/theme-simple-dark-content.png" width="65%">
   </a>
 </p>
 
