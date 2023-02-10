@@ -1,3 +1,6 @@
+# BLOG
+[Homepage](https://SlimTux.github.io/School) - Explore this brave new (world[blog])
+
 # docsify-themeable
 [![NPM](https://img.shields.io/npm/v/docsify-themeable.svg?style=flat-square)](https://www.npmjs.com/package/docsify-themeable)
 
