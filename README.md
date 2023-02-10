@@ -4,7 +4,7 @@
 # docsify-themeable
 [![CAS](https://img.shields.io/npm/v/docsify-themeable.svg?style=flat-square)](https://github.com/SlimTux/School/CAS)
 
-[![GitHub Workflow Status (master)](https://img.shields.io/github/workflow/status/jhildenbiddle/docsify-themeable/Build/master?label=checks&style=flat-square)](https://getmonero.org)
+[![GitHub Workflow Status (master)](https://img.shields.io/badge/XD-Code%20certificated%20(by%20me)-informarional)](https://getmonero.org)
 
 [![Codacy grade](https://img.shields.io/codacy/grade/39220ba530f24dfc9443b47f2efea5c9?style=flat-square)](https://app.codacy.com/gh/jhildenbiddle/docsify-themeable/dashboard)
 
