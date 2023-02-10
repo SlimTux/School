@@ -25,15 +25,15 @@ Docsify-themeable is a delightfully simple theme system for [docsify.js](//docsi
 
 <p float="left">
   <a href="https://jhildenbiddle.github.io/docsify-themeable">
-    <img alt="Simple dark theme content" src="https://raw.githubusercontent.com/jhildenbiddle/docsify-themeable/master/docs/assets/img/theme-simple-dark-content.png" width="65%">
+    <img alt="Blog`s theme" src="https://raw.githubusercontent.com/jhildenbiddle/docsify-themeable/master/docs/assets/img/theme-simple-dark-content.png" width="65%">
   </a>
 </p>
 
-> 💡 Like docsify-themeable? Check out [docsify-tabs](https://jhildenbiddle.github.io/docsify-tabs/) for tabbed content, [docsify-plugin-ethicalads](https://jhildenbiddle.github.io/docsify-plugin-ethicalads/) for EthicalAds integration, and [docsify-plugin-runkit](https://jhildenbiddle.github.io/docsify-plugin-runkit/) for live JavaScript REPLs!
+> 💡 Like docsify-themeable? Check out [Blog-tabs](https://jhildenbiddle.github.io/docsify-tabs/) for tabbed content, [docsify-plugin-ethicalads](https://jhildenbiddle.github.io/docsify-plugin-ethicalads/) for EthicalAds integration, and [Blog-plugin-runkit](https://jhildenbiddle.github.io/docsify-plugin-runkit/) for live JavaScript REPLs!
 
 ## Installation & Options
 
-See the [documentation site](https://jhildenbiddle.github.io/docsify-themeable) for details. 
+For details, here it is the [documentation](https://jhildenbiddle.github.io/docsify-themeable). 
 
 ## Sponsorship
 
