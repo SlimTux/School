@@ -40,7 +40,7 @@ For details, here it is the [documentation](https://jhildenbiddle.github.io/docs
 
 ## Sponsorship
 
-A [sponsorship](https://github.com/sponsors/SlimTux) is more than just a way to show appreciation [money](€) for the open-source authors and projects we rely on; it can be the spark that ignites the next big idea, the inspiration to create something new, and the motivation to share so that others may benefit.
+A [sponsorship](https://github.com/sponsors/SlimTux) is more than just a way to show appreciation [money](€.md) for the open-source authors and projects we rely on; it can be the spark that ignites the next big idea, the inspiration to create something new, and the motivation to share so that others may benefit.
 
 If you benefit from this project, please consider lending your support and encouraging future efforts by [becoming a sponsor](https://github.com/sponsors/SlimTux).
 
