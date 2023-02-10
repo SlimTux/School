@@ -6,7 +6,7 @@
 
 [![GitHub Workflow Status (master)](https://img.shields.io/badge/XD-Code%20certificated%20(by%20me)-informational)](https://getmonero.org)
 
-[![Codacy grade](https://img.shields.io/codacy/grade/39220ba530f24dfc9443b47f2efea5c9?style=flat-square)](https://app.codacy.com/gh/jhildenbiddle/docsify-themeable/dashboard)
+[![Codacy grade](https://img.shields.io/archlinux/v/core/x86_64/pacman)](https://ericmurphy.xyz)
 
 [![Gimme money €o€](https://img.shields.io/static/v1?style=flat-square&label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/jhildenbiddle)
 
