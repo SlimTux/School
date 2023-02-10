@@ -12,7 +12,7 @@
 
 Docsify-themeable is a delightfully simple theme system for [docsify.js](//docsify.js.org). Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE11+).
 
-- [Homepage](https://SlimTux.github.io/School) - Live demo, documentation, and more
+- [Website](https://SlimTux.github.io/School) - Live demo, documentation, and more
 
 ## Screenshots
 
