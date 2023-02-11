@@ -16,7 +16,7 @@ Docsify-themeable is a delightfully simple theme system for [docsify.js](//docsi
 
 ## Screenshots
 
-#### Simple Theme
+#### This theme is fire!
 
 <p float="left">
   <a href="https://jhildenbiddle.github.io/docsify-themeable">
