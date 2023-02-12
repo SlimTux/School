@@ -1,4 +1,4 @@
-- [CAS](PROJECTS)
+- [CAS](School/PROJECTS)
 - [Markdown](markdown.md)
 - **Links**
 - [Github](https://github.com/SlimTux/School)
