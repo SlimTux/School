@@ -17,11 +17,11 @@
 :small_blue_diamond:Expected Launch Date:when things get ready (after MOCKS)
 
 ----
-## Background:🚩
+## Background🚩
 
 😵‍💫
 Some mental illness and stuff like that.
---
+-
 ## ✏️Objectives and Challenges
 
 :octocat: 
