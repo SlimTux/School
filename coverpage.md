@@ -4,7 +4,7 @@
 
 - Based on CSS custom properties
 - [Notes](https://slimtux.github.io/School/#/notes/subjects.md)
-- Good stuff.
+- [Good stuff.](https://gist.github.com/SlimTux)
 
 [Get Started](https://github.com/SlimTux/School) 
 [GitHub](https://github.com/SlimTux/School)
