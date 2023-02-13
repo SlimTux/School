@@ -1,14 +1,10 @@
-# [Product] Brief
+# Product
 
-:::info
-:bulb: Some Proposoals.
-:::
+### :bulb: Some Proposoals.
 
-_PROJECT INFO_ ## :beginner: Project Info
+## Project Info :beginner:
 
-:::success
-Group project.
-:::
+#### Group project.
 
 :small_blue_diamond:Project Name:I dont even know lol  
 :small_blue_diamond:Leader: Zé Victor  
@@ -17,7 +13,7 @@ Group project.
 :small_blue_diamond:Target Audience:School  
 :small_blue_diamond:Expected Launch Date:when things get ready (after MOCKS)
 
-## :triangular_flag_on_post: Background
+## Background:triangular_flag_on_post:
 
 :::success
 Some mental illness and stuff like that.
@@ -46,7 +42,7 @@ Provide a good blog for the team? Are there any challenges?
 |      0_0             |      (°_°)           |      $  |
 |         ._.          |       °_°            |      $  |
 
-### :small_blue_diamond: Expected Challenges:
+### :small_blue_diamond:Expected Challenges: 
 
 #### Expected Solution:
 - Follow what people tell me to do.
