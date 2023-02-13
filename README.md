@@ -8,8 +8,7 @@
 
 [![Gimme money €o€](https://img.shields.io/static/v1?style=flat-square&label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/jhildenbiddle)
 
-Docsify-themeable is a delightfully simple theme system for [docsify.js](//docsify.js.org). Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE11+).
-
+Docsify-themeable is a delightfully simple theme system for [docsify.js](//docsify.js.org). Features all my group projects (That need an website & > 10.02.23), also, my cas blog and my notes. (Drafts are welcomed too 👨‍💻 👍)
 ###  [Website](https://SlimTux.github.io/School) - Explore this brave new *(world)* blog.
 
 ## Screenshots
@@ -17,7 +16,7 @@ Docsify-themeable is a delightfully simple theme system for [docsify.js](//docsi
 #### This theme is fire!
 
 <p float="left">
-  <a href="https://jhildenbiddle.github.io/docsify-themeable">
+  <a href="https://stallman.org">
     <img alt="This theme is fire!" src="https://mataroa.blog/images/85c462b4.jpeg" width="100%">
   </a>
 </p>
@@ -25,7 +24,7 @@ Docsify-themeable is a delightfully simple theme system for [docsify.js](//docsi
 #### Simple Dark Theme
 
 <p float="left">
-  <a href="https://jhildenbiddle.github.io/docsify-themeable">
+  <a href="https://fsf.org">
     <img alt="Blog`s theme" src="https://raw.githubusercontent.com/jhildenbiddle/docsify-themeable/master/docs/assets/img/theme-simple-dark-content.png" width="65%">
   </a>
 </p>
