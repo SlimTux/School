@@ -1,8 +1,11 @@
 # Product
 
-### :bulb: Some Proposoals.
+
+### Some Proposoals. 💡
 
 ## Project Info :beginner:
+
+----
 
 #### Group project.
 
@@ -13,28 +16,26 @@
 :small_blue_diamond:Target Audience:School  
 :small_blue_diamond:Expected Launch Date:when things get ready (after MOCKS)
 
-## Background:triangular_flag_on_post:
+----
+## Background:🚩
 
-:::success
+😵‍💫
 Some mental illness and stuff like that.
-:::
+--
+## ✏️Objectives and Challenges
 
-## :pencil: Objectives and Challenges
+:octocat: 
+ Provide a good blog for the team? Are there any challenges? 
 
-:::success
-Provide a good blog for the team? Are there any challenges? 
-:::
+### 🔹Problem Formulation: Money and FOSS Software
 
-### :small_blue_diamond: Problem Formulation: Money and FOSS Software
-
-### :small_blue_diamond: Expected Techniques:
+### 🔹Expected Techniques:
 
 1. Avoid stuff like AWS or google to host the project. 
 2. Get a way to comunicate with the team
 3. More later...
 
-### :small_blue_diamond: Expected Goals and Criteria:
-
+### 🔹Expected Goals and Criteria:
 
 | **Goal/Criteria** | **Description** | **Note** |
 |:-----------------:|:---------------:|:--------:|
@@ -42,17 +43,16 @@ Provide a good blog for the team? Are there any challenges?
 |      0_0             |      (°_°)           |      $  |
 |         ._.          |       °_°            |      $  |
 
-### :small_blue_diamond:Expected Challenges: 
+### 🔹Expected Challenges: 
 
 #### Expected Solution:
 - Follow what people tell me to do.
 - I don't know?
 
-## :timer_clock: Timeline
+## ⏲️Timeline
 
-:::success
+⏰
 Schedule the timeline, including essential dates and deadlines.
-:::
 
 |        **Item**        | **Date** | **Note** |
 |:----------------------:|:--------:|:--------:|
@@ -67,10 +67,8 @@ Schedule the timeline, including essential dates and deadlines.
 
 ## :book:Reference
 
-:::success
+📚
 List the reference you use in this project.
-:::
-
 1. Not
 2. my
 3. role.
