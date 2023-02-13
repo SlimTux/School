@@ -4,7 +4,7 @@
 :bulb: Some Proposoals.
 :::
 
-## :beginner: Project Info
+_PROJECT INFO_ ## :beginner: Project Info
 
 :::success
 Group project.
