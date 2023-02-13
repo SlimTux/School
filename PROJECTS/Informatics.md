@@ -1,14 +1,11 @@
 # [Informatics] First draft
 
-:::info
 :bulb:I cannot garantee that this project will turn out as i expect. This will be my first time in this type of activity.
-:::
 
 ## :sunglasses: Red-Piling classes 
-:::success
-Raise awareness over how people are being exploited ( without their knowlodge).
-:::
-This classes will be for general software and privacy knowlodge.
+Raise awareness over how people are being exploited ( without their knowlodge)..
+
+- This classes will be for general software and privacy knowlodge.
 
 ## :feet: Roadmap
 
