@@ -3,7 +3,7 @@
 > A delightfully simple blog [docsify.js](https://docsify.js.org)
 
 - Based on CSS custom properties
-- [Notes](https://gist.github.com/SlimTux/100d39fc8c4f9a5e0680ef386281f266#file-animal-farming-not-the-novel-md)
+- [Notes](https://github.com/SlimTux/School/blob/main/notes/)
 - Good stuff.
 
 [Get Started](#main)
