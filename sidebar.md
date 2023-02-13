@@ -7,4 +7,6 @@
 - **notes**
 - [SUBJECTS](https://slimtux.github.io/School/#/notes/subjects.md)
 - [ECO](https://slimtux.github.io/School/#/notes/ECO/10.02.23-tariff.md) 
+- [heute](notes/ECO/10.02.23-tariff.md)
+- [test](https://github.com/SlimTux/School/blob/main/notes/ECO/10.02.23-tariff.md)
 - [ESS](https://slimtux.github.io/School/#/notes/ESS/10.02.23-ANIMALFARM.md)
