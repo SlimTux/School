@@ -1,6 +1,4 @@
 # BLOG
-[Homepage](https://SlimTux.github.io/School) - Explore this brave new *(world)* blog.
-
 # docsify-themeable
 [![CAS](https://img.shields.io/website?down_color=red&down_message=DOWN&style=for-the-badge&up_message=UP&url=https%3A%2F%2Fslimtux.github.io%2FSchool%2F%23%2Fe)](https://github.com/SlimTux/School/CAS)
 
@@ -12,7 +10,7 @@
 
 Docsify-themeable is a delightfully simple theme system for [docsify.js](//docsify.js.org). Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE11+).
 
-- [Website](https://SlimTux.github.io/School) - Live demo, documentation, and more
+###  [Website](https://SlimTux.github.io/School) - Explore this brave new *(world)* blog.
 
 ## Screenshots
 
