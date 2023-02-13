@@ -70,7 +70,7 @@ Body text
 
 ~~Strikethrough~~
 
-!!!!!! <mark>Marked text</mark> !!!!!!!! (<mark></mark>)
+<mark>Marked text</mark>
 
 <pre>Preformatted text</pre>
 
