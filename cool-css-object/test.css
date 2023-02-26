@@ -1,0 +1,29 @@
+.basic {
+  width: 200px;
+  height: 200px;
+  background: rgba(255,255,255,0.4);
+  position: relative;
+}
+.blur {
+  position: absolute;
+  bottom: 25px;
+  right: 162px;
+  width: 200px;
+  height: 200px;
+  background: rgba(255,255,255,0.4);
+  backdrop-filter: blur(5px);
+}.basic {
+  width: 200px;
+  height: 200px;
+  background: rgba(255,255,255,0.4);
+  position: relative;
+}
+.blur {
+  position: absolute;
+  bottom: 25px;
+  right: 162px;
+  width: 200px;
+  height: 200px;
+  background: rgba(255,255,255,0.4);
+  backdrop-filter: blur(5px);
+}
