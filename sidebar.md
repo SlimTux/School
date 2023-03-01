@@ -10,5 +10,5 @@
 - [UNIT 24](notes/ECO/10.02.23-tariff.md)
 - [ESS](https://slimtux.github.io/School/#/notes/ESS/10.02.23-ANIMALFARM.md)
 - [SOIL](notes/ESS/10.02.23-ANIMALFARM.md)
-- [MATH](https://slimtux.github.io/School/#/notes/MATH/mathtemplate.md)
+- [MATH](https://slimtux.github.io/School/#/notes/MATH/latex?.md)
 - [LATEX?](notes/MATH/latex?.md)
