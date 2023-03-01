@@ -2,7 +2,6 @@
 
 > A delightfully simple [_blog_](https://docsify.js.org)
 
-- Based on CSS custom properties
 - [Notes](https://slimtux.github.io/School/#/notes/subjects.md)
 - [Good stuff.](https://gist.github.com/SlimTux)
 
