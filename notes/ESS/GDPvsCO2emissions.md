@@ -194,21 +194,9 @@ ___
 + GDP ***per capita***
   + 23,219$
 ---
-```{r} 
-library(ggplot2)
-data <- data.frame(
-  group=c("CHINA ","RUSSIA ","South Africa ","UK ","Thailand ","Romania ","Tunisia ","Ghana ","Cambodia ","Panama ","LUX ","Congo ","BF ","Namibia ","Iceland ","Rwanda ","Seychelles ","Salmon Island ","Samoa ","Meow Island") , 
-  value=c(10741,1692,467,365, 290, 77, 30, 19, 18, 13, 9.8, 7.3, 5.3, 4.1, 3.5, 1.8, 0.6, 0.3, 0.3, 0.3) , 
-  number_of_obs=c(14.28,0.1693,0.014,0.005,0.0252,0.0041,0.0068,0.0025,0.0061,0.0074,0.0012,0.0016,0.0012,0.0025,0.0010,0.068,0.001,0.0091,0.001)
-)
+# CO2 Ranking
+ ![pic-selected-230528-0217-51](https://mataroa.blog/images/dc28ea82.png) 
  
-# Calculate the future positions on the x axis of each bar (left border, central position, right border)
-data$right <- cumsum(data$number_of_obs) + 30*c(0:(nrow(data)-1))
-data$left <- data$right - data$number_of_obs 
+# GDP ranking 
+ ![pic-selected-230528-2223-57](https://mataroa.blog/images/bca3bd62.png) 
  
-# Plot
-ggplot(data, aes(ymin = 0)) + 
-    geom_rect(aes(xmin = left, xmax = right, ymax = value, colour = group, fill = group)) +
-    xlab("number of obs") + 
-    ylab("value") 
-```
