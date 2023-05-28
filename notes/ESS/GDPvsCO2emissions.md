@@ -50,7 +50,7 @@ ___
 + GDP  ***per capita***
   + 13,047$
 ---
-### Russian Federation🐻🍺
+### Russian Federation🐻🍺
 + **CO2**
   + 1622 _MT-CO2_
 + GDP
