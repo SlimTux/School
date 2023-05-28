@@ -7,6 +7,8 @@
 - [donate](€.md)
 - **notes**
 - [SUBJECTS](https://slimtux.github.io/School/#/notes/subjects.md)
+- [LIT](https://slimtux.github.io/School/#/notes/LIT/index.html)
+- [CARTA](notes/LIT/tpc)
 - [ECO](https://slimtux.github.io/School/#/notes/ECO/10.02.23-tariff.md) 
 - [UNIT 24](notes/ECO/10.02.23-tariff.md)
 - [ESS](https://slimtux.github.io/School/#/notes/ESS/10.02.23-ANIMALFARM.md)
