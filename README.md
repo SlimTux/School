@@ -44,7 +44,6 @@ Thank you! 🙏🏻
 - Create a 💬 [GitHub issue](https://github.com/SlimTux/School/issues) for bug reports, feature requests, or questions
 - Add a ⭐️ [star on GitHub](https://github.com/SlimTux/School)
 - Become a 💖 [sponsor](https://github.com/sponsors/SlimTux) 
-- Give me monero XMR [Address](https://github.com/SlimTux/School/blob/v/%E2%82%AC.md)
 - Give me monero XMR [Address](https://github.com/SlimTux/School/blob/v/€.md)
 - Also accept Bitcoin and Wownero [BTC-Address](bc1qzr7dtqn0pppdv9xpzsud76ygvhlenng8ku75v3) [Address²] (to be implemented)
 
