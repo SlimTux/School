@@ -44,12 +44,12 @@ Thank you! 🙏🏻
 - Create a 💬 [GitHub issue](https://github.com/SlimTux/School/issues) for bug reports, feature requests, or questions
 - Add a ⭐️ [star on GitHub](https://github.com/SlimTux/School)
 - Become a 💖 [sponsor](https://github.com/sponsors/SlimTux) 
-- mmmmmmmmmmmmonero XMR [Address](https://github.com/SlimTux/School/blob/v/%E2%82%AC.md)
-- Also accept Bitcoin and Wownero [Address¹] (to be implemented) [Address²] (to be implemented)
+- Monero XMR [Donation page](https://github.com/SlimTux/School/blob/v/€.md) + [ALT](https://slimtux.github.io/School/#/%E2%82%AC)  [monero Address](47Hn9WEu2v7MWHDKpUZNJKBU6QKDX9tu4HkzyNPYNtrSKin4uQkkeLXTFD3mejaiiPSH7spwxKBWpEGF6Q9VFE826Lbs3nf)
+- Also accept Bitcoin and Wownero [BTC-Address](bc1qzr7dtqn0pppdv9xpzsud76ygvhlenng8ku75v3) [Address²] (to be implemented)
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/jhildenbiddle/docsify-themeable/blob/master/LICENSE) for details.
 
 !!!!! Copyright (c) John Hildenbiddle ([@jhildenbiddle](https://twitter.com/jhildenbiddle))  !!!!!
-I have used his [jhildenbiddle](https://twitter.com/jhildenbiddle) template !!!!!
+I have used his [jhildenbiddle](https://twitter.com/jhildenbiddle) template !!!!
