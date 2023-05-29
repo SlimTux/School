@@ -25,7 +25,6 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ https://school-slimtux.vercel.app }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -37,6 +36,3 @@ jobs:
         with:
           # Upload entire repository
           path: '.'
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v1
