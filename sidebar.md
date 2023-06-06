@@ -1,6 +1,6 @@
 - [CAS](https://slimtux.github.io/School/#/PROJECTS/project.md)
 - [💊](PROJECTS/First-post.md)
-- [🇩🇪](PROJECTS/germanblog.md)
+- [🇩🇪](PROJECTS/weblernen/index.html)
 - **Links**
 - [Github](https://github.com/SlimTux/School)
 - [Extra](https://gigachad.mataroa.blog) 
