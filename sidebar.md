@@ -1,10 +1,12 @@
 - [CAS](https://slimtux.github.io/School/#/PROJECTS/project.md)
 - [💊](PROJECTS/First-post.md)
 - [🇩🇪](PROJECTS/weblernen/index.html)
+- **Mysc**
+- [🇩🇪weblernen🇩🇪](markdown.md)
+- [Another Blog](firecas.md)
 - **Links**
 - [Github](https://github.com/SlimTux/School)
 - [Extra](https://gigachad.mataroa.blog) 
-- [Markdown](markdown.md)
 - [donate](€.md)
 - **notes**
 - [SUBJECTS](https://slimtux.github.io/School/#/notes/subjects.md)
